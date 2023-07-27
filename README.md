@@ -1,0 +1,3 @@
+# aut_course_bioinformatics
+
+bioinformatics course algorithms like c-star and ...
